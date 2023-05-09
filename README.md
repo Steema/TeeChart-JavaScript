@@ -1,5 +1,7 @@
 # TeeChart-JavaScript
 
-This repository is down temporarily for location re-assignment. The new location will be posted here shortly.
+This repository has been moved to:
 
-Apologies for the inconvenience.
+https://gitlab.com/steema/teechartjs
+
+The location contains the TeeChart for Javascript code maintained by Steema Software.
